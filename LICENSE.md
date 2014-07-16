@@ -1,7 +1,8 @@
 #### Attribution-ShareAlike 4.0 International *(CC BY-SA 4.0)*
-
+---
 This is a human-readable summary of (and not a substitute for) the [license](http://http://creativecommons.org/licenses/by-sa/4.0/legalcode/ "See license ->").  
 *This license is acceptable for Free Cultural Works.*
+---  
 
 ###### You are free to
 
