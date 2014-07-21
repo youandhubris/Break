@@ -1,3 +1,6 @@
+### If you intend to use any of the frameworks, libraries or software that I have used for the application, please check the respective license. For any other case, this follows:
+---
+
 ### Attribution-ShareAlike 4.0 International *(CC BY-SA 4.0)*
 ---
 This is a human-readable summary of (and not a substitute for) the [license](http://http://creativecommons.org/licenses/by-sa/4.0/legalcode/ "See license ->").  
@@ -21,4 +24,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 #### Notices
 
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.  
