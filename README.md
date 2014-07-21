@@ -1,6 +1,5 @@
----
 ## BREAK
----
+
 BY [HUBRIS](http://cargocollective.com/hubris "See more of Hubris ->")  
 FOR [ENTREPRENEURS BREAK](http://entrepreneursbreak.com "See license ->")  
 LISBON · MARCH 2014 
