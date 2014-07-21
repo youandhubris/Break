@@ -1,13 +1,18 @@
 /*
-------------------------------------------------
-BREAK#1 0.15
-------------------------------------------------
+---------------------------------------------------------
+BREAK 0.15
+---------------------------------------------------------
 BY HUBRIS [cargocollective.com/hubris]
 FOR ENTREPRENEURS BREAK [entrepreneursbreak.com]
 LISBON · MARCH 2014
-------------------------------------------------
+---------------------------------------------------------
 FULL VERSION: KEYBOARD + MOUSE + KINECT + 1080P
-------------------------------------------------
+---------------------------------------------------------
+USING THE FOLLOWING LIBRARIES:
+SimpleOpenNI [https://code.google.com/p/simple-openni/]
+Geomerative [http://www.ricardmarxer.com/geomerative/]
+jBox2D [https://github.com/shiffman/Box2D-for-Processing]
+---------------------------------------------------------
 */
 
 class Dynamics {
