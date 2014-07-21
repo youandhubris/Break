@@ -7,5 +7,7 @@ LISBON · MARCH 2014
   
 
 One of my first experiments with code. A simple 2D particle system with physics and Kinect interaction.  
-Done with [Processing](http://www.processing.org "See more of Processing ->"), with the following libraries: [SimpleOpenNI](https://code.google.com/p/simple-openni/ "See more of SimpleOpenNI ->"), [Geomerative](http://www.ricardmarxer.com/geomerative/ "See more of Geomerative ->"), [jBox2D](https://github.com/shiffman/Box2D-for-Processing "See more of jBox2D ->")
+Done with [Processing](http://www.processing.org "See more of Processing ->"), with the following libraries: [SimpleOpenNI](https://code.google.com/p/simple-openni/ "See more of SimpleOpenNI ->"), [Geomerative](http://www.ricardmarxer.com/geomerative/ "See more of Geomerative ->"), [jBox2D](https://github.com/shiffman/Box2D-for-Processing "See more of jBox2D ->").  
+
+This program was possible thank to [Daniel Shiffman](http://www.shiffman.net "See more of Daniel Shiffman ->") and his [Nature of Code](http://natureofcode.com "See more of jBox2D ->") book.
 
