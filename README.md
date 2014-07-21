@@ -18,8 +18,8 @@ This program was possible thanks to [Daniel Shiffman's](http://www.shiffman.net 
 #### Stills
 ![Break Still #1](https://farm6.staticflickr.com/5587/14706770354_b9c3137d3b_o.png)
 ![Break Still #2](https://farm4.staticflickr.com/3904/14706770344_5e27a14220_o.png)
-![Break Still #3](https://farm6.staticflickr.com/5587/14706770354_8b79cce0e9_z.jpg)
-![Break Still #4](https://farm6.staticflickr.com/5587/14706770354_8b79cce0e9_z.jpg)
-![Break Still #5](https://farm6.staticflickr.com/5587/14706770354_8b79cce0e9_z.jpg)
-![Break Still #6](https://farm6.staticflickr.com/5587/14706770354_8b79cce0e9_z.jpg)
-![Break Still #7](https://farm6.staticflickr.com/5587/14706770354_8b79cce0e9_z.jpg)
+![Break Still #3](https://farm3.staticflickr.com/2918/14708877122_5278619331_o.png)
+![Break Still #4](https://farm4.staticflickr.com/3866/14709165295_8b5a45f0c2_o.png)
+![Break Still #5](https://farm4.staticflickr.com/3848/14706770164_fcbaa3a758_o.png)
+![Break Still #6](https://farm4.staticflickr.com/3850/14729034573_db52ab1b98_o.png)
+![Break Still #7](https://farm6.staticflickr.com/5573/14729034453_0c43a62931_o.png)
