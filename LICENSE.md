@@ -1,4 +1,4 @@
-### If you intend to use any of the frameworks, libraries or software that I have used for the application, please check the respective license. For any other case, this follows:
+### If you intend to use any of the frameworks, libraries, software or code (when noticed that is not mine) that I have used for this application, please check the respective license. For any other case, this follows:
 ---
 
 ### Attribution-ShareAlike 4.0 International *(CC BY-SA 4.0)*
