@@ -12,5 +12,6 @@ Done with [Processing](http://www.processing.org "See more of Processing ->"), w
 
 This program was possible thanks to [Daniel Shiffman's](http://www.shiffman.net "See more of Daniel Shiffman ->") [*Nature of Code*](http://natureofcode.com "See more of "Nature of Code" ->") book.  
 
-
-![Break Still #1](https://www.dropbox.com/s/dw3zd70vbfdl02b/profile.jpg)
+---
+#### Stills
+![Break Still #1](https://farm6.staticflickr.com/5587/14706770354_8b79cce0e9_z.jpg)
